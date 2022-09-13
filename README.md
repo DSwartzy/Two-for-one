@@ -1,1 +1,1 @@
-# Two-for-one
+# This project analyzes the causal effects of the two-for-one strategy in the NBA. I will presenting some of this work at the 2022 UConn Sports Analytics Symposium and will put some of the R code we used in the analysis here. 
